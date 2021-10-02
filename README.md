@@ -47,7 +47,7 @@ func main() {
 ```
 
 # Output
-![]()
+![](https://raw.githubusercontent.com/tee-ck/go-progress/master/assets/sample-output.gif)
 
 # License
 
